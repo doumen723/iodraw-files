@@ -22,6 +22,9 @@
         <mxCell id="K8fxFKtZphgm_StDaqcZ-3" value="设置亚慢性暴露浓度&#xa;（对照组、1/20、1/10、1/5 LC50）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1710" y="11.370000000000001" width="200" height="35.75" as="geometry" />
         </mxCell>
+        <mxCell id="K8fxFKtZphgm_StDaqcZ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-4" target="K8fxFKtZphgm_StDaqcZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-4" value="亚慢性暴露试验&#xa;（28天，半静态更新）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1970" y="8.75" width="129" height="41" as="geometry" />
         </mxCell>
@@ -35,7 +38,7 @@
           <mxGeometry x="1180" y="140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-8" value="非特异性免疫" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="140" width="80" height="20" as="geometry" />
+          <mxGeometry x="1860" y="100" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-9" value="肠道组织病理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2160" y="100" width="80" height="20" as="geometry" />
