@@ -43,17 +43,6 @@
         <mxCell id="K8fxFKtZphgm_StDaqcZ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-9" target="K8fxFKtZphgm_StDaqcZ-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K8fxFKtZphgm_StDaqcZ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="K8fxFKtZphgm_StDaqcZ-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2179.0026315789473" y="120" as="sourcePoint" />
-            <mxPoint x="2118.95" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2180" y="110" />
-              <mxPoint x="2120" y="110" />
-              <mxPoint x="2120" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-9" value="肠道组织病理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2160" y="100" width="80" height="20" as="geometry" />
         </mxCell>
