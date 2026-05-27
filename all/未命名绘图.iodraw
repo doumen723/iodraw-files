@@ -82,7 +82,7 @@
         <mxCell id="K8fxFKtZphgm_StDaqcZ-21" value="呼吸爆发（O₂⁻）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1960" y="250" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K8fxFKtZphgm_StDaqcZ-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-22" target="K8fxFKtZphgm_StDaqcZ-23">
+        <mxCell id="K8fxFKtZphgm_StDaqcZ-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-22" target="K8fxFKtZphgm_StDaqcZ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-22" value="石蜡切片、H&amp;E染色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
