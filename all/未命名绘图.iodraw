@@ -10,17 +10,14 @@
         <mxCell id="K8fxFKtZphgm_StDaqcZ-1" value="实验生物准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1411" y="18.5" width="89" height="21.5" as="geometry" />
         </mxCell>
-        <mxCell id="K8fxFKtZphgm_StDaqcZ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-2" target="K8fxFKtZphgm_StDaqcZ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-2" value="急性毒性试验&#xa;（确定96h LC50）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="11.370000000000001" width="106" height="35.75" as="geometry" />
+          <mxGeometry x="1560" y="11.370000000000001" width="106" height="35.75" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-3" target="K8fxFKtZphgm_StDaqcZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-3" value="设置亚慢性暴露浓度&#xa;（对照组、1/20、1/10、1/5 LC50）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="14.25" width="200" height="35.75" as="geometry" />
+          <mxGeometry x="1710" y="14.25" width="200" height="35.75" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-4" value="亚慢性暴露试验&#xa;（28天，半静态更新）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2281" y="9" width="129" height="41" as="geometry" />
