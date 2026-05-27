@@ -35,7 +35,7 @@
           <mxGeometry x="1180" y="140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-8" value="非特异性免疫" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="140" width="80" height="30" as="geometry" />
+          <mxGeometry x="1730" y="140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-9" value="肠道组织病理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2370" y="140" width="160" height="50" as="geometry" />
