@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K8fxFKtZphgm_StDaqcZ-1" value="实验生物准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="10" width="156" height="49" as="geometry" />
+          <mxGeometry x="1411" y="18.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-2" value="急性毒性试验&#xa;（确定96h LC50）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1654" y="10" width="189" height="66" as="geometry" />
@@ -102,11 +102,6 @@
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-33" value="结论：铅对罗氏沼虾的&#xa;慢性毒性效应与机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1411" y="816" width="220" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K8fxFKtZphgm_StDaqcZ-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-1" target="K8fxFKtZphgm_StDaqcZ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-2" target="K8fxFKtZphgm_StDaqcZ-3">
           <mxGeometry relative="1" as="geometry">
