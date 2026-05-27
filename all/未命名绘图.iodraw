@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K8fxFKtZphgm_StDaqcZ-1" value="实验生物准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2093" y="20" width="156" height="49" as="geometry" />
+          <mxGeometry x="1412" y="10" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-2" value="急性毒性试验&#xa;（确定96h LC50）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2077" y="119" width="189" height="66" as="geometry" />
+          <mxGeometry x="1654" y="10" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-3" value="设置亚慢性暴露浓度&#xa;（对照组、1/20、1/10、1/5 LC50）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2044" y="235" width="256" height="84" as="geometry" />
