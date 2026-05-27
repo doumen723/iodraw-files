@@ -97,10 +97,10 @@
           <mxGeometry x="2140" y="160" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-23" value="光镜观察上皮脱落等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="210" width="120" height="20" as="geometry" />
+          <mxGeometry x="2140" y="220" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-24" value="16S V3-V4区扩增" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="140" width="100" height="20" as="geometry" />
+          <mxGeometry x="2350" y="160" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-25" value="Illumina测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2355" y="190" width="70" height="20" as="geometry" />
