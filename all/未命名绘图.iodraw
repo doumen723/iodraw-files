@@ -38,7 +38,7 @@
           <mxGeometry x="1730" y="140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-9" value="肠道组织病理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2370" y="140" width="160" height="50" as="geometry" />
+          <mxGeometry x="2370" y="140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-10" value="肠道菌群16S测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2950" y="140" width="180" height="50" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="2190" y="250" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-23" value="光镜观察上皮脱落等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="250" width="200" height="50" as="geometry" />
+          <mxGeometry x="2480" y="250" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-24" value="16S V3-V4区扩增" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2730" y="250" width="180" height="50" as="geometry" />
