@@ -46,8 +46,8 @@
         <mxCell id="K8fxFKtZphgm_StDaqcZ-11" value="肝胰腺转录组/代谢组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3650" y="140" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K8fxFKtZphgm_StDaqcZ-12" value="渗透调节能力（可选）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4320" y="140" width="220" height="50" as="geometry" />
+        <mxCell id="K8fxFKtZphgm_StDaqcZ-12" value="渗透调节能力" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="140" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-13" value="增重率、特定生长率、存活率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="170" height="30" as="geometry" />
