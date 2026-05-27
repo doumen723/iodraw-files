@@ -107,10 +107,10 @@
           <mxGeometry x="4460" y="250" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-32" value="数据处理与统计分析&#xa;（ANOVA、Tukey、IBR等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="350" width="250" height="70" as="geometry" />
+          <mxGeometry x="1420" y="350" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-33" value="结论：铅对罗氏沼虾的&#xa;慢性毒性效应与机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="471" width="220" height="66" as="geometry" />
+          <mxGeometry x="1431" y="471" width="149" height="39" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-5" target="K8fxFKtZphgm_StDaqcZ-13">
           <mxGeometry relative="1" as="geometry">
