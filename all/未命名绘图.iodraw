@@ -20,7 +20,7 @@
           <mxGeometry x="1940" width="256" height="84" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-4" value="亚慢性暴露试验&#xa;（28天，半静态更新）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2061" y="369" width="221" height="66" as="geometry" />
+          <mxGeometry x="2281" y="9" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-5" value="生长与铅积累" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="485" width="156" height="49" as="geometry" />
@@ -108,11 +108,6 @@
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-33" value="结论：铅对罗氏沼虾的&#xa;慢性毒性效应与机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1411" y="816" width="220" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="K8fxFKtZphgm_StDaqcZ-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-3" target="K8fxFKtZphgm_StDaqcZ-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.55;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K8fxFKtZphgm_StDaqcZ-4" target="K8fxFKtZphgm_StDaqcZ-5">
           <mxGeometry relative="1" as="geometry">
