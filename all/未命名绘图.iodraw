@@ -89,7 +89,7 @@
           <mxGeometry x="2960" y="250" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-26" value="α/β多样性、LEfSe分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3160" y="250" width="220" height="50" as="geometry" />
+          <mxGeometry x="3160" y="250" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-27" value="RNA-Seq / GC-MS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3430" y="250" width="180" height="50" as="geometry" />
