@@ -35,7 +35,7 @@
           <mxGeometry x="1180" y="140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-8" value="非特异性免疫" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="140" width="160" height="50" as="geometry" />
+          <mxGeometry x="1730" y="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-9" value="肠道组织病理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2370" y="140" width="160" height="50" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="1430" y="250" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-20" value="酚氧化酶（PO）活性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="250" width="210" height="50" as="geometry" />
+          <mxGeometry x="1700" y="250" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8fxFKtZphgm_StDaqcZ-21" value="呼吸爆发（O₂⁻）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1960" y="250" width="180" height="50" as="geometry" />
