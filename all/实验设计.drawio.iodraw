@@ -1,0 +1,296 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="JGZGXSKlFJtb9e2ypODU">
+    <mxGraphModel dx="59" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ftubprg72mBkV-od6MCD-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftubprg72mBkV-od6MCD-2" target="ftubprg72mBkV-od6MCD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-2" value="实验生物准备" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1721" y="219.75" width="89" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftubprg72mBkV-od6MCD-4" target="ftubprg72mBkV-od6MCD-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-4" value="急性毒性试验&#xa;（确定96h LC50）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="212.62" width="106" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftubprg72mBkV-od6MCD-6" target="ftubprg72mBkV-od6MCD-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-6" value="设置亚慢性暴露浓度&#xa;（对照组、1/20、1/10、1/5 LC50）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="212.62" width="200" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-8" target="ftubprg72mBkV-od6MCD-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-8" target="ftubprg72mBkV-od6MCD-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2345" y="276" />
+              <mxPoint x="2240" y="276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-8" target="ftubprg72mBkV-od6MCD-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-8" target="ftubprg72mBkV-od6MCD-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-8" target="ftubprg72mBkV-od6MCD-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2280" y="275.54368421052635" as="sourcePoint" />
+            <mxPoint x="1865" y="344.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-8" target="ftubprg72mBkV-od6MCD-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-8" target="ftubprg72mBkV-od6MCD-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-8" value="亚慢性暴露试验&#xa;（28天，半静态更新）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="210" width="129" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-9" value="生长与铅积累" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="301.25" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-10" value="肝胰腺抗氧化/氧化应激" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="299.38" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-11" value="血清生化指标" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2030" y="301.25" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-12" value="非特异性免疫" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="301.25" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-14" target="ftubprg72mBkV-od6MCD-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-14" value="肠道组织病理" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-15" value="肠道菌群16S测序" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2520" y="299.38" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-16" target="ftubprg72mBkV-od6MCD-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-16" value="肝胰腺转录组/代谢组" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2710" y="299.38" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-17" value="渗透调节能力" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2910" y="300" width="80" height="19.38" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-18" target="ftubprg72mBkV-od6MCD-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-18" value="增重率、特定生长率、存活率" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1595" y="336.88" width="160" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-19" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1675" y="480" />
+              <mxPoint x="2360" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-19" value="肌肉/肝胰腺铅积累&#xa;（ICP-MS/AAS）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-20" value="SOD、CAT、GPx、T-AOC" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="339.38" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-21" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1865" y="480" />
+              <mxPoint x="2360" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-21" value="MDA、GSH/GSSG" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="379.38" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-22" target="ftubprg72mBkV-od6MCD-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-22" value="GOT、GPT" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2032.5" y="340" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-24" value="总血细胞计数（THC）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2177.5" y="338.13" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-25" value="酚氧化酶（PO）活性" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2175" y="379.38" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2360" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-26" value="呼吸爆发（O₂⁻）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2190" y="421.25" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-77" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-28" target="ftubprg72mBkV-od6MCD-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-28" value="石蜡切片、H&amp;E染色" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2340" y="340" width="120" height="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-29" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2400" y="480" />
+              <mxPoint x="2360" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-29" value="光镜观察上皮脱落等" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2340" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-30" value="16S V3-V4区扩增" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2520" y="338.13" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-31" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2570" y="480" />
+              <mxPoint x="2360" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-31" value="Illumina测序" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2535" y="379.38" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftubprg72mBkV-od6MCD-32" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-32" value="α/β多样性、LEfSe分析" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2500" y="525" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-33" value="RNA-Seq / GC-MS" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2715" y="341.25" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-34" value="差异基因/代谢物" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="380" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-35" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-35" value="GO/KEGG富集、PPI网络" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2700" y="421.25" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-36" value="血淋巴渗透压、离子浓度" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2880" y="340" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftubprg72mBkV-od6MCD-37" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2950" y="480" />
+              <mxPoint x="2360" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-37" value="渗透调节能力（OC）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2890" y="379.38" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-38" value="数据处理与统计分析&#xa;（ANOVA、Tukey、IBR等）" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="520" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-39" value="结论：铅对罗氏沼虾的&#xa;慢性毒性效应与机制" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2285.5" y="585" width="149" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-40" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-9" target="ftubprg72mBkV-od6MCD-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1635" y="321" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-42" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" parent="1" target="ftubprg72mBkV-od6MCD-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1865" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-44" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-11" target="ftubprg72mBkV-od6MCD-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-46" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-12" target="ftubprg72mBkV-od6MCD-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-52" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-17" target="ftubprg72mBkV-od6MCD-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="ftubprg72mBkV-od6MCD-38" target="ftubprg72mBkV-od6MCD-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-78" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-30" target="ftubprg72mBkV-od6MCD-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2560" y="398.13" as="sourcePoint" />
+            <mxPoint x="2560" y="439.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-79" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-15" target="ftubprg72mBkV-od6MCD-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2560" y="328.13" as="sourcePoint" />
+            <mxPoint x="2560" y="368.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-6" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-33" target="ftubprg72mBkV-od6MCD-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2760" y="370" as="sourcePoint" />
+            <mxPoint x="2760" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-7" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-34" target="ftubprg72mBkV-od6MCD-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2760" y="400" as="sourcePoint" />
+            <mxPoint x="2760" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-8" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-36" target="ftubprg72mBkV-od6MCD-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2960" y="360" as="sourcePoint" />
+            <mxPoint x="2960" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-11" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-24" target="ftubprg72mBkV-od6MCD-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2230" y="360" as="sourcePoint" />
+            <mxPoint x="2230" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-12" style="edgeStyle=none;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="ftubprg72mBkV-od6MCD-25" target="ftubprg72mBkV-od6MCD-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2250" y="400" as="sourcePoint" />
+            <mxPoint x="2250" y="421" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-23" target="ftubprg72mBkV-od6MCD-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2070" y="480" />
+              <mxPoint x="2360" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftubprg72mBkV-od6MCD-23" value="血糖" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="379.38" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d7dP_zjtkG-Dly6-UVss-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-20" target="ftubprg72mBkV-od6MCD-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1870" y="360" as="sourcePoint" />
+            <mxPoint x="1860" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
