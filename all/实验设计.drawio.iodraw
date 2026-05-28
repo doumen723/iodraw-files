@@ -99,7 +99,7 @@
           <mxGeometry x="1610" y="380" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftubprg72mBkV-od6MCD-20" value="SOD、CAT、GPx、T-AOC" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="339.38" width="170" height="20" as="geometry" />
+          <mxGeometry x="1780" y="340" width="170" height="19.38" as="geometry" />
         </mxCell>
         <mxCell id="cSqUKjXU6pQi2Y3-ZDf7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-21" target="ftubprg72mBkV-od6MCD-38" edge="1">
           <mxGeometry relative="1" as="geometry">
