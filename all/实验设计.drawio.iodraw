@@ -54,6 +54,9 @@
         <mxCell id="ftubprg72mBkV-od6MCD-9" value="生长与铅积累" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1630" y="301.25" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="8ssCHwdAnXI9Ss9obTv0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ftubprg72mBkV-od6MCD-10" target="ftubprg72mBkV-od6MCD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ftubprg72mBkV-od6MCD-10" value="肝胰腺抗氧化/氧化应激" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1800" y="299.38" width="130" height="20" as="geometry" />
         </mxCell>
@@ -269,6 +272,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1870" y="360" as="sourcePoint" />
             <mxPoint x="1860" y="379" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1870" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
