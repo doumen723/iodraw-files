@@ -204,11 +204,6 @@
             <mxPoint x="1635" y="321" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ftubprg72mBkV-od6MCD-42" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" parent="1" target="ftubprg72mBkV-od6MCD-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1865" y="320" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ftubprg72mBkV-od6MCD-44" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="ftubprg72mBkV-od6MCD-11" target="ftubprg72mBkV-od6MCD-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
