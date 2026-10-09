@@ -7,9 +7,6 @@
         <mxCell id="T_s_JZMH6NsuFOyI9s7w-1" value="实验饲料制备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T_s_JZMH6NsuFOyI9s7w-2" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="60" width="10" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
